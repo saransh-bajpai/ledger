@@ -169,7 +169,6 @@ GEM
     zeitwerk (2.6.12)
 
 PLATFORMS
-  java
   universal-java-16
   x86_64-linux
 
